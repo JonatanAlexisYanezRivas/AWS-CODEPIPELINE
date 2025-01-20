@@ -1,9 +1,6 @@
 # AWS-CODEPIPELINE
 Exercise about deploying your project with S3, CodePipeline, and SAM's project.
 
->[!important]
->Holaaa
-
 1. Create a zip file of the project
 
 ```powershell
